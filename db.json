@@ -1,0 +1,64 @@
+{
+  "enquiry": [
+    {
+      "firstName": "mehta",
+      "lastName": "praveen",
+      "email": "praveengym@gmail.com",
+      "mobile": "97994854988",
+      "weight": 555,
+      "height": 25,
+      "bmi": 0.0832,
+      "bmiResult": "underweight",
+      "requireTrainer": "yes",
+      "gender": "Male",
+      "Package": "Monthly",
+      "important": [
+        "Six pack",
+        "Love Failure"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-03-08T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "firstName": "jjbhjhbjb",
+      "lastName": "nknkn",
+      "email": "khkhbkjhkhk",
+      "mobile": "54444",
+      "weight": 555,
+      "height": 888,
+      "bmi": 0.0007038288288288288,
+      "bmiResult": "underweight",
+      "requireTrainer": "yes",
+      "gender": "Male",
+      "Package": "Quarterly",
+      "important": [
+        "Building  Lean Muscle",
+        "Six pack"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-03-15T18:30:00.000Z",
+      "id": 8
+    },
+    {
+      "firstName": "hhki",
+      "lastName": "hh",
+      "email": "knkn",
+      "mobile": "56465",
+      "weight": 6564,
+      "height": 64646,
+      "bmi": 0.000001570671113472365,
+      "bmiResult": "underweight",
+      "requireTrainer": "yes",
+      "gender": "Male",
+      "Package": "Quarterly",
+      "important": [
+        "Building  Lean Muscle",
+        "Six pack"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-03-21T18:30:00.000Z",
+      "id": 9
+    }
+  ]
+}
